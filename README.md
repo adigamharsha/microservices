@@ -1,2 +1,2 @@
 # microservices
-MicroServices World.
+This projects are microservices Demo projects .
